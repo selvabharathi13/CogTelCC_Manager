@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Community Crisis</string>
+    <string name="enter_one_time_password">Enter One Time Password</string>
+    <string name="submit">SUBMIT</string>
+</resources>
